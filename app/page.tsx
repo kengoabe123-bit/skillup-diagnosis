@@ -7,7 +7,7 @@ export default function Home() {
         <h1>あなたのキャリアに、<br />最適な学びを。</h1>
         <p>7つの質問に答えるだけで、あなたにぴったりのスキルアップ方法が見つかります。</p>
         <div className="hero-features">
-          <span className="hero-feature">約30秒で完了</span>
+          <span className="hero-feature">約60秒で完了</span>
           <span className="hero-feature">7問の簡単な質問</span>
           <span className="hero-feature">個人情報不要</span>
         </div>
