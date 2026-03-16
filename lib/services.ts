@@ -45,7 +45,7 @@ export const services: Service[] = [
         ],
         recommended: ['プログラミングを学びたい', 'IT転職を目指したい', '副業スキルがほしい'],
         affiliateUrl: '#',
-        ctaText: '無料カウンセリングを予約する',
+        ctaText: '詳細を見る',
         color: '#1ABC9C',
     },
     {
@@ -75,7 +75,7 @@ export const services: Service[] = [
         ],
         recommended: ['ビジネス英語を学びたい', '英語力でキャリアアップしたい', '海外出張・外資系転職を目指す'],
         affiliateUrl: '#',
-        ctaText: '無料体験レッスンを受ける',
+        ctaText: '詳細を見る',
         color: '#2C3E50',
     },
     {
@@ -105,7 +105,7 @@ export const services: Service[] = [
         ],
         recommended: ['コスパ重視で資格を取りたい', 'スキマ時間を活用したい', '仕事と両立したい'],
         affiliateUrl: '#',
-        ctaText: '無料お試し講座を見る',
+        ctaText: '詳細を見る',
         color: '#E74C3C',
     },
     {
@@ -135,7 +135,7 @@ export const services: Service[] = [
         ],
         recommended: ['ビジネス全般の知識を身につけたい', 'マネジメントスキルを高めたい', '将来起業・独立を考えている'],
         affiliateUrl: '#',
-        ctaText: '7日間無料体験を始める',
+        ctaText: '詳細を見る',
         color: '#8E44AD',
     },
     {
@@ -165,7 +165,7 @@ export const services: Service[] = [
         ],
         recommended: ['Webデザイナーになりたい', 'クリエイティブな仕事がしたい', 'フリーランスを目指したい'],
         affiliateUrl: '#',
-        ctaText: '無料説明会に参加する',
+        ctaText: '詳細を見る',
         color: '#F39C12',
     },
     {
@@ -195,7 +195,7 @@ export const services: Service[] = [
         ],
         recommended: ['まずは色々な分野を学んでみたい', '学習習慣をつけたい', 'コスパ重視で始めたい'],
         affiliateUrl: '#',
-        ctaText: '無料会員登録する',
+        ctaText: '詳細を見る',
         color: '#3498DB',
     },
     {
@@ -225,7 +225,7 @@ export const services: Service[] = [
         ],
         recommended: ['本気でエンジニア転職したい', '給付金を活用したい', '短期集中で学びたい'],
         affiliateUrl: '#',
-        ctaText: '無料カウンセリングを予約する',
+        ctaText: '詳細を見る',
         color: '#16A085',
     },
 ];
